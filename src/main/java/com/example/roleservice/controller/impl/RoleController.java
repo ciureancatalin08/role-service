@@ -1,8 +1,8 @@
-package com.example.userservice.controller.impl;
+package com.example.roleservice.controller.impl;
 
-import com.example.userservice.controller.datamodel.PermissionDataModel;
-import com.example.userservice.controller.datamodel.RolePermissionDataModel;
-import com.example.userservice.core.service.RoleService;
+import com.example.roleservice.controller.datamodel.PermissionDataModel;
+import com.example.roleservice.controller.datamodel.RolePermissionDataModel;
+import com.example.roleservice.core.service.RoleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

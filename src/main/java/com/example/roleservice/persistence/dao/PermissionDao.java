@@ -1,6 +1,6 @@
-package com.example.userservice.persistence.dao;
+package com.example.roleservice.persistence.dao;
 
-import com.example.userservice.persistence.entity.Permission;
+import com.example.roleservice.persistence.entity.Permission;
 
 
 public interface PermissionDao {

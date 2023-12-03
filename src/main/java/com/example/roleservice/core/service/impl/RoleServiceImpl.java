@@ -1,14 +1,14 @@
 // =================================================================================================
 // Copyright (c) 2017-2020 BMW Group. All rights reserved.
 // =================================================================================================
-package com.example.userservice.core.service.impl;
+package com.example.roleservice.core.service.impl;
 
-import com.example.userservice.controller.datamodel.PermissionDataModel;
-import com.example.userservice.controller.datamodel.RolePermissionDataModel;
-import com.example.userservice.core.service.RoleService;
-import com.example.userservice.persistence.dao.RoleDao;
-import com.example.userservice.persistence.entity.Permission;
-import com.example.userservice.persistence.entity.Role;
+import com.example.roleservice.controller.datamodel.PermissionDataModel;
+import com.example.roleservice.controller.datamodel.RolePermissionDataModel;
+import com.example.roleservice.core.service.RoleService;
+import com.example.roleservice.persistence.dao.RoleDao;
+import com.example.roleservice.persistence.entity.Permission;
+import com.example.roleservice.persistence.entity.Role;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

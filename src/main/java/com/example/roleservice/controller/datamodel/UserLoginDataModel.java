@@ -1,4 +1,4 @@
-package com.example.userservice.controller.datamodel;
+package com.example.roleservice.controller.datamodel;
 
 import lombok.Getter;
 import lombok.Setter;

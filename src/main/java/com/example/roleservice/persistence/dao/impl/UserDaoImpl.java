@@ -1,8 +1,8 @@
-package com.example.userservice.persistence.dao.impl;
+package com.example.roleservice.persistence.dao.impl;
 
 
-import com.example.userservice.persistence.dao.UserDao;
-import com.example.userservice.persistence.entity.User;
+import com.example.roleservice.persistence.dao.UserDao;
+import com.example.roleservice.persistence.entity.User;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

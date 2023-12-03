@@ -1,6 +1,6 @@
-package com.example.userservice.persistence.dao;
+package com.example.roleservice.persistence.dao;
 
-import com.example.userservice.persistence.entity.Bug;
+import com.example.roleservice.persistence.entity.Bug;
 
 import java.util.List;
 

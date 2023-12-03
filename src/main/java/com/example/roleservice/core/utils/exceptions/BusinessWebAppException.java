@@ -1,4 +1,4 @@
-package com.example.userservice.core.utils.exceptions;
+package com.example.roleservice.core.utils.exceptions;
 
 
 public class BusinessWebAppException extends RuntimeException {

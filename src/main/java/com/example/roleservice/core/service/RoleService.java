@@ -1,8 +1,8 @@
-package com.example.userservice.core.service;
+package com.example.roleservice.core.service;
 
-import com.example.userservice.controller.datamodel.PermissionDataModel;
-import com.example.userservice.controller.datamodel.RolePermissionDataModel;
-import com.example.userservice.persistence.entity.Role;
+import com.example.roleservice.controller.datamodel.PermissionDataModel;
+import com.example.roleservice.controller.datamodel.RolePermissionDataModel;
+import com.example.roleservice.persistence.entity.Role;
 
 import java.util.List;
 

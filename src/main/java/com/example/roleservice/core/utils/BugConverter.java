@@ -1,9 +1,9 @@
-package com.example.userservice.core.utils;
+package com.example.roleservice.core.utils;
 
-import com.example.userservice.controller.datamodel.BugDataModel;
-import com.example.userservice.persistence.dao.UserDao;
-import com.example.userservice.persistence.entity.Bug;
-import com.example.userservice.persistence.entity.User;
+import com.example.roleservice.controller.datamodel.BugDataModel;
+import com.example.roleservice.persistence.dao.UserDao;
+import com.example.roleservice.persistence.entity.Bug;
+import com.example.roleservice.persistence.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,10 +1,10 @@
 // =================================================================================================
 // Copyright (c) 2017-2020 BMW Group. All rights reserved.
 // =================================================================================================
-package com.example.userservice.core.utils;
+package com.example.roleservice.core.utils;
 
 
-import com.example.userservice.core.utils.exceptions.ExceptionMessage;
+import com.example.roleservice.core.utils.exceptions.ExceptionMessage;
 
 /**
  * A catalog of all the Messages thrown from the Notification component.

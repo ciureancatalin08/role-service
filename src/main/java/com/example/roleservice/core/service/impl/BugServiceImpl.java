@@ -1,13 +1,13 @@
-package com.example.userservice.core.service.impl;
+package com.example.roleservice.core.service.impl;
 
-import com.example.userservice.controller.datamodel.BugDataModel;
-import com.example.userservice.core.service.BugService;
-import com.example.userservice.persistence.dao.BugDao;
-import com.example.userservice.persistence.entity.Bug;
-import com.example.userservice.core.utils.BugConverter;
-import com.example.userservice.core.utils.MessageCatalog;
-import com.example.userservice.core.utils.exceptions.BugStatus;
-import com.example.userservice.core.utils.exceptions.BusinessWebAppException;
+import com.example.roleservice.controller.datamodel.BugDataModel;
+import com.example.roleservice.core.service.BugService;
+import com.example.roleservice.persistence.dao.BugDao;
+import com.example.roleservice.persistence.entity.Bug;
+import com.example.roleservice.core.utils.BugConverter;
+import com.example.roleservice.core.utils.MessageCatalog;
+import com.example.roleservice.core.utils.exceptions.BugStatus;
+import com.example.roleservice.core.utils.exceptions.BusinessWebAppException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

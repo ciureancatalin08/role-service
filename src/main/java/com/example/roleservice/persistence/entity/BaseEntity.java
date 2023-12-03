@@ -1,4 +1,4 @@
-package com.example.userservice.persistence.entity;
+package com.example.roleservice.persistence.entity;
 
 import lombok.Getter;
 import lombok.Setter;

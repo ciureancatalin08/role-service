@@ -1,7 +1,7 @@
-package com.example.userservice.controller.impl;
+package com.example.roleservice.controller.impl;
 
-import com.example.userservice.controller.datamodel.BugDataModel;
-import com.example.userservice.core.service.BugService;
+import com.example.roleservice.controller.datamodel.BugDataModel;
+import com.example.roleservice.core.service.BugService;
 import jakarta.ws.rs.core.Context;
 import jakarta.ws.rs.core.SecurityContext;
 import org.springframework.beans.factory.annotation.Autowired;

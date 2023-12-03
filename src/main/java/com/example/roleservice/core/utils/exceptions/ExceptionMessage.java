@@ -1,7 +1,7 @@
 // =================================================================================================
 // Copyright (c) 2017-2020 BMW Group. All rights reserved.
 // =================================================================================================
-package com.example.userservice.core.utils.exceptions;
+package com.example.roleservice.core.utils.exceptions;
 
 /**
  * The Message structure for the {@link BusinessException}.

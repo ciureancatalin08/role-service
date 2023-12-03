@@ -1,10 +1,10 @@
 // =================================================================================================
 // Copyright (c) 2017-2020 BMW Group. All rights reserved.
 // =================================================================================================
-package com.example.userservice.persistence.dao.impl;
+package com.example.roleservice.persistence.dao.impl;
 
-import com.example.userservice.persistence.dao.PermissionDao;
-import com.example.userservice.persistence.entity.Permission;
+import com.example.roleservice.persistence.dao.PermissionDao;
+import com.example.roleservice.persistence.entity.Permission;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

@@ -1,8 +1,8 @@
-package com.example.userservice.core.service;
+package com.example.roleservice.core.service;
 
-import com.example.userservice.controller.datamodel.UserDataModel;
-import com.example.userservice.controller.datamodel.UserLoginDataModel;
-import com.example.userservice.controller.datamodel.UserLoginOutputDatenModel;
+import com.example.roleservice.controller.datamodel.UserDataModel;
+import com.example.roleservice.controller.datamodel.UserLoginDataModel;
+import com.example.roleservice.controller.datamodel.UserLoginOutputDatenModel;
 
 import java.util.List;
 

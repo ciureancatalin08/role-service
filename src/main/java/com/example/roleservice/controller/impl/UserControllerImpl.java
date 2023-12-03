@@ -1,9 +1,9 @@
-package com.example.userservice.controller.impl;
+package com.example.roleservice.controller.impl;
 
-import com.example.userservice.controller.datamodel.UserDataModel;
-import com.example.userservice.controller.datamodel.UserLoginDataModel;
-import com.example.userservice.controller.datamodel.UserLoginOutputDatenModel;
-import com.example.userservice.core.service.UserService;
+import com.example.roleservice.controller.datamodel.UserDataModel;
+import com.example.roleservice.controller.datamodel.UserLoginDataModel;
+import com.example.roleservice.controller.datamodel.UserLoginOutputDatenModel;
+import com.example.roleservice.core.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

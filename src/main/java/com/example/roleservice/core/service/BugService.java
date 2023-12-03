@@ -1,6 +1,6 @@
-package com.example.userservice.core.service;
+package com.example.roleservice.core.service;
 
-import com.example.userservice.controller.datamodel.BugDataModel;
+import com.example.roleservice.controller.datamodel.BugDataModel;
 
 import java.util.List;
 
