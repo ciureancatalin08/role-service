@@ -8,7 +8,6 @@ public class RoleService {
 
 	public static void main(String[] args) {
 
-		System.out.println("roleService");
 		SpringApplication.run(RoleService.class, args);
 	}
 }
